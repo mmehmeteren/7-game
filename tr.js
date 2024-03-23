@@ -1,1 +1,1 @@
-alert("HOŞGLEDİN");
+<script>alert("HOŞGLEDİN");</script>
